@@ -1,0 +1,1 @@
+**Vagrant** é uma ferramenta que automatiza a criação e configuração de ambientes virtuais de desenvolvimento. Com ele, é possível definir máquinas virtuais, como sistema operacional, rede, CPU, memória e provisionamento em um único arquivo (`Vagrantfile`).
